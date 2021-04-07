@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>CKEditor 5 – classic editor build – RequireJS integration test</title>
+	<title>CKEditor 5 – ezicheq editor build – RequireJS integration test</title>
 	<style>
 		body {
 			max-width: 800px;
@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<h1>CKEditor 5 – classic editor build – RequireJS integration test (see <a href="https://github.com/ckeditor/ckeditor5/issues/914">#914</a>)</h1>
+<h1>CKEditor 5 – ezicheq editor build – RequireJS integration test (see <a href="https://github.com/ckeditor/ckeditor5/issues/914">#914</a>)</h1>
 
 <h2>In the default language</h2>
 
@@ -32,8 +32,8 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.5/require.js"></script>
 <script>
-	require( [ '../../build/ckeditor.js' ], ( ClassicEditor ) => {
-		ClassicEditor.create( document.getElementById( 'editor' ) )
+	require( [ '../../build/ckeditor.js' ], ( EzicheqEditor ) => {
+		EzicheqEditor.create( document.getElementById( 'editor' ) )
 			.then( editor => {
 				window.editor = editor;
 			} )
@@ -42,8 +42,8 @@
 			} );
 	} );
 
-	require( [ '../../build/ckeditor.js', '../../build/translations/de.js' ], ( ClassicEditor ) => {
-		ClassicEditor
+	require( [ '../../build/ckeditor.js', '../../build/translations/de.js' ], ( EzicheqEditor ) => {
+		EzicheqEditor
 			.create( document.getElementById( 'editor-de' ), {
 				language: 'de'
 			} )

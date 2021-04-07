@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "@ckeditor/ckeditor5-build-ezicheq",
   "version": "27.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "description": "The ezicheq editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -32,7 +32,7 @@
     "@ckeditor/ckeditor5-ckfinder": "^27.0.0",
     "@ckeditor/ckeditor5-cloud-services": "^27.0.0",
     "@ckeditor/ckeditor5-easy-image": "^27.0.0",
-    "@ckeditor/ckeditor5-editor-classic": "^27.0.0",
+    "@ckeditor/ckeditor5-editor-ezicheq": "^27.0.0",
     "@ckeditor/ckeditor5-essentials": "^27.0.0",
     "@ckeditor/ckeditor5-heading": "^27.0.0",
     "@ckeditor/ckeditor5-image": "^27.0.0",
@@ -68,7 +68,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ckeditor/ckeditor5.git",
-    "directory": "packages/ckeditor5-build-classic"
+    "directory": "packages/ckeditor5-build-ezicheq"
   },
   "scripts": {
     "build": "webpack --mode production",

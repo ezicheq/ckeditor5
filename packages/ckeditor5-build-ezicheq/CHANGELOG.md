@@ -5,7 +5,7 @@ All changes in the package are documented in the main repository. See: https://g
 
 Changes for the past releases are available below.
 
-## [19.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v18.0.0...v19.0.0) (2020-04-29)
+## [19.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v18.0.0...v19.0.0) (2020-04-29)
 
 We are happy to announce the release of CKEditor 5 v19.0.0.
 
@@ -42,7 +42,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v19.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v19.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v19.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v19.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v19.0.0)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v19.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v19.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v19.0.0)
@@ -61,7 +61,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-upload](https://www.npmjs.com/package/@ckeditor/ckeditor5-upload): v18.0.0 => [v19.0.0](https://github.com/ckeditor/ckeditor5-upload/releases/tag/v19.0.0)
 
 
-## [18.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v17.0.0...v18.0.0) (2020-03-19)
+## [18.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v17.0.0...v18.0.0) (2020-03-19)
 
 We are happy to announce the release of CKEditor 5 v18.0.0.
 
@@ -73,7 +73,7 @@ Read more in the blog post: https://ckeditor.com/blog/CKEditor-5-v18.0.0-with-cu
 
 Besides new features introduced by the dependencies, this version also introduces the following features:
 
-* Added the [Automatic text transformation](https://ckeditor.com/docs/ckeditor5/latest/features/text-transformation.html) feature to the build. See [ckeditor/ckeditor5#6304](https://github.com/ckeditor/ckeditor5/issues/6304). ([af021aa](https://github.com/ckeditor/ckeditor5-build-classic/commit/af021aa))
+* Added the [Automatic text transformation](https://ckeditor.com/docs/ckeditor5/latest/features/text-transformation.html) feature to the build. See [ckeditor/ckeditor5#6304](https://github.com/ckeditor/ckeditor5/issues/6304). ([af021aa](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/af021aa))
 
 ### Dependencies
 
@@ -98,7 +98,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v18.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v18.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v18.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v18.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v18.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v18.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v18.0.0)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v18.0.0)
@@ -118,7 +118,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v17.0.0 => [v18.0.0](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v18.0.0)
 
 
-## [17.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v16.0.0...v17.0.0) (2020-02-19)
+## [17.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v16.0.0...v17.0.0) (2020-02-19)
 
 We are happy to announce the release of CKEditor 5 v17.0.0.
 
@@ -157,7 +157,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v17.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v17.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v17.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v17.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v17.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v17.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v17.0.0)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v17.0.0)
@@ -171,7 +171,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-upload](https://www.npmjs.com/package/@ckeditor/ckeditor5-upload): v16.0.0 => [v17.0.0](https://github.com/ckeditor/ckeditor5-upload/releases/tag/v17.0.0)
 
 
-## [16.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v15.0.0...v16.0.0) (2019-12-04)
+## [16.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v15.0.0...v16.0.0) (2019-12-04)
 
 We are happy to announce the release of CKEditor 5 v16.0.0. This release introduces one of the most community-requested features: [code blocks](https://ckeditor.com/docs/ckeditor5/latest/features/code-blocks.html). We included a new [restricted editing](https://ckeditor.com/docs/ckeditor5/latest/features/restricted-editing.html) plugin, too.
 
@@ -181,7 +181,7 @@ Read more in the blog post: https://ckeditor.com/blog/CKEditor-5-v16.0.0-with-co
 
 ### Other changes
 
-* Replaced UglifyJS with Terser. See [ckeditor/ckeditor5#1353](https://github.com/ckeditor/ckeditor5/issues/1353). ([6d387bd](https://github.com/ckeditor/ckeditor5-build-classic/commit/6d387bd))
+* Replaced UglifyJS with Terser. See [ckeditor/ckeditor5#1353](https://github.com/ckeditor/ckeditor5/issues/1353). ([6d387bd](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/6d387bd))
 
 ### Dependencies
 
@@ -201,7 +201,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v16.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v16.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v16.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v16.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v16.0.0)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v16.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v16.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v16.0.0)
@@ -222,11 +222,11 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v15.0.0 => [v16.0.0](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v16.0.0)
 
 
-## [15.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.4.0...v15.0.0) (2019-10-23)
+## [15.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.4.0...v15.0.0) (2019-10-23)
 
 We are happy to announce the release of CKEditor 5 v15.0.0. This editor version introduces support for inserting [horizontal lines](https://ckeditor.com/docs/ckeditor5/latest/features/horizontal-line.html), [page breaks](https://ckeditor.com/docs/ckeditor5/latest/features/page-break.html) and [SVG images](https://ckeditor.com/docs/ckeditor5/latest/api/module_image_imageupload-ImageUploadConfig.html#member-types) into the WYSIWYG editor. It also allows you to define the [document title section](https://ckeditor.com/docs/ckeditor5/latest/features/title.html) thanks to the new title plugin. The editor toolbar is now responsive which improves the UX, especially for mobile devices.
 
-Regarding the build itself, we added the [list indentation](https://ckeditor.com/docs/ckeditor5/latest/features/indent.html#indenting-lists) button to the build's default setup. See [ckeditor/ckeditor5#1844](https://github.com/ckeditor/ckeditor5/issues/1844). ([5dc1e87](https://github.com/ckeditor/ckeditor5-build-classic/commit/5dc1e87))
+Regarding the build itself, we added the [list indentation](https://ckeditor.com/docs/ckeditor5/latest/features/indent.html#indenting-lists) button to the build's default setup. See [ckeditor/ckeditor5#1844](https://github.com/ckeditor/ckeditor5/issues/1844). ([5dc1e87](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/5dc1e87))
 
 From other news, we changed the versioning policy. Now, all packages will have the same major version, hence, we needed to release this one as v15.0.0 (we skipped versions 13.0.0 and 14.0.0). Read more about the [new versioning policy](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/support/versioning-policy.html).
 
@@ -254,7 +254,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v11.0.5 => [v15.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v15.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v12.3.0 => [v15.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v15.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v11.0.5 => [v15.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v15.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.1.4 => [v15.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v15.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.1.4 => [v15.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v15.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v11.1.0 => [v15.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v15.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v11.0.5 => [v15.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v15.0.0)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v11.0.5 => [v15.0.0](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v15.0.0)
@@ -271,7 +271,7 @@ Major releases (dependencies of those packages have breaking changes):
 * [@ckeditor/ckeditor5-utils](https://www.npmjs.com/package/@ckeditor/ckeditor5-utils): v14.0.0 => [v15.0.0](https://github.com/ckeditor/ckeditor5-utils/releases/tag/v15.0.0)
 
 
-## [12.4.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.3.1...v12.4.0) (2019-08-26)
+## [12.4.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.3.1...v12.4.0) (2019-08-26)
 
 This release brings a huge set of new features: [image resizing](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/image.html#resizing-images), [to-do lists](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/todo-lists.html), [support for RTL languages](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/ui-language.html), [simple upload adapter](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/image-upload/simple-upload-adapter.html), [support for pasting from Google Docs](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/paste-from-office/paste-from-google-docs.html), [mathematic formulas](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/mathtype.html), and [spelling and grammar checking](https://ckeditor.com/ckeditor5/build/docs/ckeditor5/latest/features/spell-checker.html). In addition to that, as always, it contains many improvements and bug fixes.
 
@@ -306,7 +306,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v12.0.1 => [v12.0.2](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v12.0.2)
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v11.0.4 => [v11.0.5](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v11.0.5)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v11.0.4 => [v11.0.5](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v11.0.5)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.1.3 => [v12.1.4](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.1.4)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.1.3 => [v12.1.4](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.1.4)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v11.0.4 => [v11.0.5](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v11.0.5)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v11.0.4 => [v11.0.5](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v11.0.5)
 * [@ckeditor/ckeditor5-link](https://www.npmjs.com/package/@ckeditor/ckeditor5-link): v11.1.1 => [v11.1.2](https://github.com/ckeditor/ckeditor5-link/releases/tag/v11.1.2)
@@ -316,11 +316,11 @@ Patch releases (bug fixes, internal changes):
 
 ### Other changes
 
-* Bumped style-loader to v1.0.0. Aligned the webpack config to the new loader API. See [ckeditor/ckeditor5#1945](https://github.com/ckeditor/ckeditor5/issues/1945). ([9e69c1e](https://github.com/ckeditor/ckeditor5-build-classic/commit/9e69c1e))
-* The issue tracker for this package was moved to https://github.com/ckeditor/ckeditor5/issues. See [ckeditor/ckeditor5#1988](https://github.com/ckeditor/ckeditor5/issues/1988). ([8b4af5d](https://github.com/ckeditor/ckeditor5-build-classic/commit/8b4af5d))
+* Bumped style-loader to v1.0.0. Aligned the webpack config to the new loader API. See [ckeditor/ckeditor5#1945](https://github.com/ckeditor/ckeditor5/issues/1945). ([9e69c1e](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/9e69c1e))
+* The issue tracker for this package was moved to https://github.com/ckeditor/ckeditor5/issues. See [ckeditor/ckeditor5#1988](https://github.com/ckeditor/ckeditor5/issues/1988). ([8b4af5d](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/8b4af5d))
 
 
-## [12.3.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.3.0...v12.3.1) (2019-07-10)
+## [12.3.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.3.0...v12.3.1) (2019-07-10)
 
 We are happy to report the release of CKEditor 5 v12.3.0 (and v12.3.1 with a small fix). This release introduces several new features ([word count](https://ckeditor.com/docs/ckeditor5/latest/features/word-count.html), [automatic text transformations](https://ckeditor.com/docs/ckeditor5/latest/features/text-transformation.html), [ability to control link attributes such as `target`](https://ckeditor.com/docs/ckeditor5/latest/features/link.html#custom-link-attributes-decorators) and [block indentation](https://ckeditor.com/docs/ckeditor5/latest/features/indent.html)). It also brings improvements to existing features (e.g. the ["document colors" section](https://ckeditor.com/docs/ckeditor5/latest/features/font.html#documents-colors) in the font color picker dropdowns) and many bug fixes.
 
@@ -337,7 +337,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v11.0.3 => [v11.0.4](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v11.0.4)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v12.2.0 => [v12.2.1](https://github.com/ckeditor/ckeditor5-core/releases/tag/v12.2.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v11.0.3 => [v11.0.4](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v11.0.4)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.1.2 => [v12.1.3](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.1.3)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.1.2 => [v12.1.3](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.1.3)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v13.2.0 => [v13.2.1](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v13.2.1)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v11.0.3 => [v11.0.4](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v11.0.4)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v11.0.3 => [v11.0.4](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v11.0.4)
@@ -358,7 +358,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v11.0.3 => [v11.0.4](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v11.0.4)
 
 
-## [12.3.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.2.0...v12.3.0) (2019-07-04)
+## [12.3.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.2.0...v12.3.0) (2019-07-04)
 
 We are happy to report the release of CKEditor 5 v12.3.0. This release introduces several new features ([word count](https://ckeditor.com/docs/ckeditor5/latest/features/word-count.html), [automatic text transformations](https://ckeditor.com/docs/ckeditor5/latest/features/text-transformation.html), [ability to control link attributes such as `target`](https://ckeditor.com/docs/ckeditor5/latest/features/link.html#custom-link-attributes-decorators) and [block indentation](https://ckeditor.com/docs/ckeditor5/latest/features/indent.html)). It also brings improvements to existing features (e.g. the ["document colors" section](https://ckeditor.com/docs/ckeditor5/latest/features/font.html#documents-colors) in the font color picker dropdowns) and many bug fixes.
 
@@ -387,7 +387,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-ckfinder](https://www.npmjs.com/package/@ckeditor/ckeditor5-ckfinder): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-ckfinder/releases/tag/v11.0.3)
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v11.0.3)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v11.0.3)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.1.1 => [v12.1.2](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.1.2)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.1.1 => [v12.1.2](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.1.2)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v11.0.3)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v11.0.3)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v11.0.3)
@@ -402,7 +402,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v11.0.2 => [v11.0.3](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v11.0.3)
 
 
-## [12.2.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.1.0...v12.2.0) (2019-06-05)
+## [12.2.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.1.0...v12.2.0) (2019-06-05)
 
 We are happy to report the release of CKEditor 5 v12.2.0. This is a minor release with many bug fixes and a new UI feature which allows to navigating between multiple balloons.
 
@@ -431,7 +431,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v11.0.2)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v12.1.0 => [v12.1.1](https://github.com/ckeditor/ckeditor5-core/releases/tag/v12.1.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v11.0.2)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.1.0 => [v12.1.1](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.1.1)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.1.0 => [v12.1.1](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.1.1)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v13.1.0 => [v13.1.1](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v13.1.1)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v11.0.2)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v11.0.2)
@@ -448,7 +448,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v11.0.2)
 
 
-## [12.1.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v12.0.0...v12.1.0) (2019-04-10)
+## [12.1.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v12.0.0...v12.1.0) (2019-04-10)
 
 We are happy to report the release of CKEditor 5 v12.1.0. This release introduces 3 new features ([mentions](https://ckeditor.com/docs/ckeditor5/latest/features/mentions.html), [font color and background color](https://ckeditor.com/docs/ckeditor5/latest/features/font.html) and [remove format](https://ckeditor.com/docs/ckeditor5/latest/features/remove-format.html)).
 
@@ -460,7 +460,7 @@ Minor releases:
 
 * [@ckeditor/ckeditor5-basic-styles](https://www.npmjs.com/package/@ckeditor/ckeditor5-basic-styles): v11.0.0 => [v11.1.0](https://github.com/ckeditor/ckeditor5-basic-styles/releases/tag/v11.1.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v12.0.0 => [v12.1.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v12.1.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v12.0.0 => [v12.1.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.1.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v12.0.0 => [v12.1.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.1.0)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v13.0.0 => [v13.1.0](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v13.1.0)
 * [@ckeditor/ckeditor5-media-embed](https://www.npmjs.com/package/@ckeditor/ckeditor5-media-embed): v11.0.0 => [v11.1.0](https://github.com/ckeditor/ckeditor5-media-embed/releases/tag/v11.1.0)
 * [@ckeditor/ckeditor5-ui](https://www.npmjs.com/package/@ckeditor/ckeditor5-ui): v12.0.0 => [v12.1.0](https://github.com/ckeditor/ckeditor5-ui/releases/tag/v12.1.0)
@@ -491,7 +491,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v11.0.0 => [v11.0.1](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v11.0.1)
 
 
-## [12.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v11.2.0...v12.0.0) (2019-02-28)
+## [12.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v11.2.0...v12.0.0) (2019-02-28)
 
 We are happy to report the release of CKEditor 5 v12.0.0. This release introduces a new editor (called "[Balloon block editor](https://ckeditor.com/docs/ckeditor5/latest/examples/builds/balloon-block-editor.html)"), the [editor content placeholder](https://ckeditor.com/docs/ckeditor5/latest/features/editor-placeholder.html) and support for inline widgets (watch [this PR](https://github.com/ckeditor/ckeditor5/pull/1587) for updates). In addition to that we enabled media embeds and images in tables and resolved the issue where `editor.getData()` returned `<p>&nbsp;</p>` for empty content (now it returns an empty string in this case).
 
@@ -510,7 +510,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v10.1.1 => [v11.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v11.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v11.1.0 => [v12.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v12.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v10.0.4 => [v11.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v11.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v11.0.2 => [v12.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v12.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v11.0.2 => [v12.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v12.0.0)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v12.0.0 => [v13.0.0](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v13.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v10.1.3 => [v11.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v11.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v10.1.3 => [v11.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v11.0.0)
@@ -535,7 +535,7 @@ Major releases (contain breaking changes):
 * Upgraded minimal versions of Node to `8.0.0` and npm to `5.7.1`. See: [ckeditor/ckeditor5#1507](https://github.com/ckeditor/ckeditor5/issues/1507). ([612ea3c](https://github.com/ckeditor/ckeditor5-cloud-services/commit/612ea3c))
 
 
-## [11.2.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v11.1.1...v11.2.0) (2018-12-05)
+## [11.2.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v11.1.1...v11.2.0) (2018-12-05)
 
 We are happy to report the release of CKEditor 5 v11.2.0. This editor version brings the long-awaited [support for paste from Office](https://ckeditor.com/docs/ckeditor5/latest/features/paste-from-word.html) (e.g. from Microsoft Word), [integration with CKFinder file manager](https://ckeditor.com/docs/ckeditor5/latest/features/ckfinder.html), improved [image upload documentation](https://ckeditor.com/docs/ckeditor5/latest/features/image-upload.html), improved [editor UI on mobile devices](https://github.com/ckeditor/ckeditor5/issues/416#issuecomment-430246472), as well as many smaller features and improvements.
 
@@ -571,7 +571,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v10.0.3 => [v10.0.4](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v10.0.4)
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v10.1.0 => [v10.1.1](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v10.1.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v10.0.3 => [v10.0.4](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v10.0.4)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v11.0.2)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v11.0.1 => [v11.0.2](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v11.0.2)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v10.1.2 => [v10.1.3](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v10.1.3)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v10.1.2 => [v10.1.3](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v10.1.3)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v10.1.0 => [v10.1.1](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v10.1.1)
@@ -584,12 +584,12 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v10.3.0 => [v10.3.1](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v10.3.1)
 
 
-## [11.1.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v11.1.0...v11.1.1) (2018-10-11)
+## [11.1.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v11.1.0...v11.1.1) (2018-10-11)
 
 This releases fixes the README of this package on npm.
 
 
-## [11.1.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v11.0.1...v11.1.0) (2018-10-08)
+## [11.1.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v11.0.1...v11.1.0) (2018-10-08)
 
 This is a minor release. Besides updating all used CKEditor 5 packages to their latest versions it brings two new features: the [Table](https://ckeditor.com/docs/ckeditor5/latest/features/table.html) and [Media embed](https://ckeditor.com/docs/ckeditor5/latest/features/media-embed.html) features which are now enabled in this build by default.
 
@@ -619,7 +619,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v10.0.2 => [v10.0.3](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v10.0.3)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v11.0.0 => [v11.0.1](https://github.com/ckeditor/ckeditor5-core/releases/tag/v11.0.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v10.0.2 => [v10.0.3](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v10.0.3)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v11.0.0 => [v11.0.1](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v11.0.1)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v11.0.0 => [v11.0.1](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v11.0.1)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v10.1.1 => [v10.1.2](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v10.1.2)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v10.1.1 => [v10.1.2](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v10.1.2)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v10.0.2 => [v10.0.3](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v10.0.3)
@@ -635,19 +635,19 @@ Patch releases (bug fixes, internal changes):
 
 Besides new features introduced by the dependencies, this version also introduces the following features:
 
-* Added the table and media embed features to the build. See [ckeditor/ckeditor5#1247](https://github.com/ckeditor/ckeditor5/issues/1247). ([01281a1](https://github.com/ckeditor/ckeditor5-build-classic/commit/01281a1))
+* Added the table and media embed features to the build. See [ckeditor/ckeditor5#1247](https://github.com/ckeditor/ckeditor5/issues/1247). ([01281a1](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/01281a1))
 
 
-## [11.0.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v11.0.0...v11.0.1) (2018-07-18)
+## [11.0.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v11.0.0...v11.0.1) (2018-07-18)
 
 Internal changes only (updated dependencies, documentation, etc.).
 
 
-## [11.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v10.1.0...v11.0.0) (2018-07-18)
+## [11.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v10.1.0...v11.0.0) (2018-07-18)
 
 ### Release notes
 
-This is a major releases that introduces many smaller features, dozens of bug fixes and a couple of infrastructure changes (an upgrade to `webpack@4`, simplified structure of the build repository). Additionally, the `ClassicEditor#element` property was renamed to `ClassicEditor#sourceElement` and the `ClassicEditor#updateElement()` method was renamed to `ClassicEditor#updateSourceElement()`.
+This is a major releases that introduces many smaller features, dozens of bug fixes and a couple of infrastructure changes (an upgrade to `webpack@4`, simplified structure of the build repository). Additionally, the `EzicheqEditor#element` property was renamed to `EzicheqEditor#sourceElement` and the `EzicheqEditor#updateElement()` method was renamed to `EzicheqEditor#updateSourceElement()`.
 
 If you maintain a [custom build of CKEditor 5](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html) or [integrate CKEditor 5 from source](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/advanced-setup.html#scenario-2-building-from-source), we recommend reading the [migration guide](https://github.com/ckeditor/ckeditor5/issues/1136).
 
@@ -658,7 +658,7 @@ Read more in the blog post: https://ckeditor.com/blog/CKEditor-5-v11.0.0-release
 Major releases (contain breaking changes):
 
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v10.1.0 => [v11.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v11.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v10.0.1 => [v11.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v11.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v10.0.1 => [v11.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v11.0.0)
 * [@ckeditor/ckeditor5-theme-lark](https://www.npmjs.com/package/@ckeditor/ckeditor5-theme-lark): v10.1.0 => [v11.0.0](https://github.com/ckeditor/ckeditor5-theme-lark/releases/tag/v11.0.0)
 * [@ckeditor/ckeditor5-typing](https://www.npmjs.com/package/@ckeditor/ckeditor5-typing): v10.0.1 => [v11.0.0](https://github.com/ckeditor/ckeditor5-typing/releases/tag/v11.0.0)
 * [@ckeditor/ckeditor5-ui](https://www.npmjs.com/package/@ckeditor/ckeditor5-ui): v10.1.0 => [v11.0.0](https://github.com/ckeditor/ckeditor5-ui/releases/tag/v11.0.0)
@@ -690,8 +690,8 @@ Patch releases (bug fixes, internal changes):
 
 ### Other changes
 
-* Changed the structure of the build repository. Closes [ckeditor/ckeditor5#1038](https://github.com/ckeditor/ckeditor5/issues/1038). ([623c871](https://github.com/ckeditor/ckeditor5-build-classic/commit/623c871))
-* Updated `webpack` to version 4 (applies to custom builds only). ([9392b43](https://github.com/ckeditor/ckeditor5-build-classic/commit/9392b43))
+* Changed the structure of the build repository. Closes [ckeditor/ckeditor5#1038](https://github.com/ckeditor/ckeditor5/issues/1038). ([623c871](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/623c871))
+* Updated `webpack` to version 4 (applies to custom builds only). ([9392b43](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/9392b43))
 
 ### BREAKING CHANGES
 
@@ -701,7 +701,7 @@ If you maintain a custom build, we recommend reading the [migration guide](https
 * The structure of the build repository was changed. The `build-config.js` file was removed and the build configuration is now kept only in the `src/ckeditor.js` file.
 
 
-## [10.1.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v10.0.1...v10.1.0) (2018-06-21)
+## [10.1.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v10.0.1...v10.1.0) (2018-06-21)
 
 This is a minor release that introduces many bug fixes and new features (most notable one is support for inserting soft breaks with <kbd>Shift</kbd>+<kbd>Enter</kbd>).
 
@@ -735,7 +735,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v10.0.1)
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v10.0.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v10.0.1)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v10.0.1)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v10.0.1)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v10.0.1)
 * [@ckeditor/ckeditor5-link](https://www.npmjs.com/package/@ckeditor/ckeditor5-link): v10.0.1 => [v10.0.2](https://github.com/ckeditor/ckeditor5-link/releases/tag/v10.0.2)
 * [@ckeditor/ckeditor5-paragraph](https://www.npmjs.com/package/@ckeditor/ckeditor5-paragraph): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-paragraph/releases/tag/v10.0.1)
@@ -743,7 +743,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-undo](https://www.npmjs.com/package/@ckeditor/ckeditor5-undo): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-undo/releases/tag/v10.0.1)
 
 
-## [10.0.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v10.0.0...v10.0.1) (2018-05-22)
+## [10.0.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v10.0.0...v10.0.1) (2018-05-22)
 
 ### Dependencies
 
@@ -752,7 +752,7 @@ Patch releases (bug fixes, internal changes):
 * [@ckeditor/ckeditor5-link](https://www.npmjs.com/package/@ckeditor/ckeditor5-link): v10.0.0 => [v10.0.1](https://github.com/ckeditor/ckeditor5-link/releases/tag/v10.0.1)
 
 
-## [10.0.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v1.0.0-beta.4...v10.0.0) (2018-04-25)
+## [10.0.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v1.0.0-beta.4...v10.0.0) (2018-04-25)
 
 ### Dependencies
 
@@ -766,7 +766,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v10.0.0)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-core/releases/tag/v10.0.0)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v10.0.0)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v10.0.0)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v10.0.0)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v10.0.0)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v10.0.0)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v1.0.0-beta.4 => [v10.0.0](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v10.0.0)
@@ -785,14 +785,14 @@ Major releases (contain breaking changes):
 
 ### Other changes
 
-* Changed the license to GPL2+ only. See [ckeditor/ckeditor5#991](https://github.com/ckeditor/ckeditor5/issues/991). ([379c31f](https://github.com/ckeditor/ckeditor5-build-classic/commit/379c31f))
+* Changed the license to GPL2+ only. See [ckeditor/ckeditor5#991](https://github.com/ckeditor/ckeditor5/issues/991). ([379c31f](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/379c31f))
 
 ### BREAKING CHANGES
 
 * The license under which CKEditor 5 is released has been changed from a triple GPL, LGPL and MPL license to a GPL2+ only. See [ckeditor/ckeditor5#991](https://github.com/ckeditor/ckeditor5/issues/991) for more information.
 
 
-## [1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-build-classic/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2018-04-19)
+## [1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2018-04-19)
 
 ### Dependencies
 
@@ -806,7 +806,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v1.0.0-beta.4)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-core/releases/tag/v1.0.0-beta.4)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v1.0.0-beta.4)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v1.0.0-beta.4)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v1.0.0-beta.4)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v1.0.0-beta.4)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v1.0.0-beta.4)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v1.0.0-beta.4)
@@ -824,18 +824,18 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-widget](https://www.npmjs.com/package/@ckeditor/ckeditor5-widget): v1.0.0-beta.2 => [v1.0.0-beta.4](https://github.com/ckeditor/ckeditor5-widget/releases/tag/v1.0.0-beta.4)
 
 
-## [1.0.0-beta.3](https://github.com/ckeditor/ckeditor5-build-classic/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2018-04-10)
+## [1.0.0-beta.3](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2018-04-10)
 
 ### NOTE
 
-This release followed `v1.0.0-beta.2` immediately to fix the issue mentioned below. Therefore, when upgrading from `v1.0.0-beta.1` make sure to also check [`v1.0.0-beta.2` release notes](https://github.com/ckeditor/ckeditor5-build-classic/releases/tag/v1.0.0-beta.2).
+This release followed `v1.0.0-beta.2` immediately to fix the issue mentioned below. Therefore, when upgrading from `v1.0.0-beta.1` make sure to also check [`v1.0.0-beta.2` release notes](https://github.com/ckeditor/ckeditor5-build-ezicheq/releases/tag/v1.0.0-beta.2).
 
 ### Bug fixes
 
-* Translations should work when CKEditor was loaded using RequireJS. See [ckeditor/ckeditor5#914](https://github.com/ckeditor/ckeditor5/issues/914). ([16cba07](https://github.com/ckeditor/ckeditor5-build-classic/commit/16cba07))
+* Translations should work when CKEditor was loaded using RequireJS. See [ckeditor/ckeditor5#914](https://github.com/ckeditor/ckeditor5/issues/914). ([16cba07](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/16cba07))
 
 
-## [1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-build-classic/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2018-04-10)
+## [1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2018-04-10)
 
 ### Dependencies
 
@@ -849,7 +849,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-cloud-services](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloud-services): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-cloud-services/releases/tag/v1.0.0-beta.2)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-core/releases/tag/v1.0.0-beta.2)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v1.0.0-beta.2)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v1.0.0-beta.2)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v1.0.0-beta.2)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v1.0.0-beta.2)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v1.0.0-beta.2)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v1.0.0-beta.1 => [v1.0.0-beta.2](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v1.0.0-beta.2)
@@ -870,10 +870,10 @@ Major releases (contain breaking changes):
 
 Besides changes in the dependencies, this version also contains the following bug fixes:
 
-* Removed duplicated `ImageUpload` plugin. See [ckeditor/ckeditor5#909](https://github.com/ckeditor/ckeditor5/issues/909). ([8553d0f](https://github.com/ckeditor/ckeditor5-build-classic/commit/8553d0f))
+* Removed duplicated `ImageUpload` plugin. See [ckeditor/ckeditor5#909](https://github.com/ckeditor/ckeditor5/issues/909). ([8553d0f](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/8553d0f))
 
 
-## [1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v1.0.0-alpha.2...v1.0.0-beta.1) (2018-03-15)
+## [1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v1.0.0-alpha.2...v1.0.0-beta.1) (2018-03-15)
 
 ### Dependencies
 
@@ -887,7 +887,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-cloudservices](https://www.npmjs.com/package/@ckeditor/ckeditor5-cloudservices): v1.0.0-alpha.1 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-cloudservices/releases/tag/v1.0.0-beta.1)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-core/releases/tag/v1.0.0-beta.1)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v1.0.0-beta.1)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v1.0.0-beta.1)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v1.0.0-beta.1)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v1.0.0-beta.1)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v1.0.0-beta.1)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v1.0.0-alpha.2 => [v1.0.0-beta.1](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v1.0.0-beta.1)
@@ -908,15 +908,15 @@ Major releases (contain breaking changes):
 
 Besides new features introduced by the dependencies, this version also introduces the following features:
 
-* Added the image upload button to the build. See [ckeditor/ckeditor5#870](https://github.com/ckeditor/ckeditor5/issues/870). ([f6cab12](https://github.com/ckeditor/ckeditor5-build-classic/commit/f6cab12))
+* Added the image upload button to the build. See [ckeditor/ckeditor5#870](https://github.com/ckeditor/ckeditor5/issues/870). ([f6cab12](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/f6cab12))
 
 ### Other changes
 
-* Aligned build and `webpack.config.js` to the new Translation Service ([ckeditor/ckeditor5#624](https://github.com/ckeditor/ckeditor5/issues/624)). ([a349ffb](https://github.com/ckeditor/ckeditor5-build-classic/commit/a349ffb))
-* Changed the webpack configuration so the styles are processed using PostCSS instead of SASS (see [ckeditor/ckeditor5-ui#144](https://github.com/ckeditor/ckeditor5-ui/issues/144)). ([040b92f](https://github.com/ckeditor/ckeditor5-build-classic/commit/040b92f))
+* Aligned build and `webpack.config.js` to the new Translation Service ([ckeditor/ckeditor5#624](https://github.com/ckeditor/ckeditor5/issues/624)). ([a349ffb](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/a349ffb))
+* Changed the webpack configuration so the styles are processed using PostCSS instead of SASS (see [ckeditor/ckeditor5-ui#144](https://github.com/ckeditor/ckeditor5-ui/issues/144)). ([040b92f](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/040b92f))
 
 
-## [1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-build-classic.git/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2017-11-14)
+## [1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-build-ezicheq.git/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2017-11-14)
 
 ### Dependencies
 
@@ -933,7 +933,7 @@ Major releases (contain breaking changes):
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v1.0.0-alpha.2)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-core/releases/tag/v1.0.0-alpha.2)
 * [@ckeditor/ckeditor5-easy-image](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-easy-image/releases/tag/v1.0.0-alpha.2)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v1.0.0-alpha.2)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v1.0.0-alpha.2)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v1.0.0-alpha.2)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v1.0.0-alpha.2)
 * [@ckeditor/ckeditor5-essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials): v1.0.0-alpha.1 => [v1.0.0-alpha.2](https://github.com/ckeditor/ckeditor5-essentials/releases/tag/v1.0.0-alpha.2)
@@ -954,14 +954,14 @@ Major releases (contain breaking changes):
 
 Besides changes in the dependencies, this version also contains the following bug fixes:
 
-* Build scripts will work on Windows. Closes [#26](https://github.com/ckeditor/ckeditor5-build-classic/issues/26). ([6c980fd](https://github.com/ckeditor/ckeditor5-build-classic/commit/6c980fd))
+* Build scripts will work on Windows. Closes [#26](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/26). ([6c980fd](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/6c980fd))
 
 ### Other changes
 
-* Optimized the bundle size (~10%) by enabling webpack's `ModuleConcatenationPlugin` plugin. Read more https://github.com/ckeditor/ckeditor5/issues/475. ([d25def7](https://github.com/ckeditor/ckeditor5-build-classic/commit/d25def7))
+* Optimized the bundle size (~10%) by enabling webpack's `ModuleConcatenationPlugin` plugin. Read more https://github.com/ckeditor/ckeditor5/issues/475. ([d25def7](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/d25def7))
 
 
-## [1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v0.4.0...v1.0.0-alpha.1) (2017-10-03)
+## [1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v0.4.0...v1.0.0-alpha.1) (2017-10-03)
 
 ### Dependencies
 
@@ -977,7 +977,7 @@ Major releases (possible breaking changes):
 * [@ckeditor/ckeditor5-block-quote](https://www.npmjs.com/package/@ckeditor/ckeditor5-block-quote): v0.2.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-block-quote/releases/tag/v1.0.0-alpha.1)
 * [@ckeditor/ckeditor5-clipboard](https://www.npmjs.com/package/@ckeditor/ckeditor5-clipboard): v0.7.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-clipboard/releases/tag/v1.0.0-alpha.1)
 * [@ckeditor/ckeditor5-core](https://www.npmjs.com/package/@ckeditor/ckeditor5-core): v0.9.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-core/releases/tag/v1.0.0-alpha.1)
-* [@ckeditor/ckeditor5-editor-classic](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-classic): v0.8.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-editor-classic/releases/tag/v1.0.0-alpha.1)
+* [@ckeditor/ckeditor5-editor-ezicheq](https://www.npmjs.com/package/@ckeditor/ckeditor5-editor-ezicheq): v0.8.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-editor-ezicheq/releases/tag/v1.0.0-alpha.1)
 * [@ckeditor/ckeditor5-engine](https://www.npmjs.com/package/@ckeditor/ckeditor5-engine): v0.11.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-engine/releases/tag/v1.0.0-alpha.1)
 * [@ckeditor/ckeditor5-enter](https://www.npmjs.com/package/@ckeditor/ckeditor5-enter): v0.10.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-enter/releases/tag/v1.0.0-alpha.1)
 * [@ckeditor/ckeditor5-heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading): v0.10.0 => [v1.0.0-alpha.1](https://github.com/ckeditor/ckeditor5-heading/releases/tag/v1.0.0-alpha.1)
@@ -997,62 +997,62 @@ Major releases (possible breaking changes):
 
 Besides changes in the dependencies, this build also contains these bug fixes:
 
-* It will be possible to configure toolbar offset without overriding preconfigured toolbar items. See [ckeditor/ckeditor5#572](https://github.com/ckeditor/ckeditor5/issues/572). ([e7fbda9](https://github.com/ckeditor/ckeditor5-build-classic/commit/e7fbda9))
+* It will be possible to configure toolbar offset without overriding preconfigured toolbar items. See [ckeditor/ckeditor5#572](https://github.com/ckeditor/ckeditor5/issues/572). ([e7fbda9](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/e7fbda9))
 
 ### Features
 
 Besides new features introduced in the dependencies, this build also introduces these features:
 
-* Added Easy Image with Cloud Services and CKFinder adapter. See [ckeditor/ckeditor5#567](https://github.com/ckeditor/ckeditor5/issues/567). ([668691f](https://github.com/ckeditor/ckeditor5-build-classic/commit/668691f))
+* Added Easy Image with Cloud Services and CKFinder adapter. See [ckeditor/ckeditor5#567](https://github.com/ckeditor/ckeditor5/issues/567). ([668691f](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/668691f))
 
 
-## [0.4.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v0.3.0...v0.4.0) (2017-09-07)
+## [0.4.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v0.3.0...v0.4.0) (2017-09-07)
 
 ### Other changes
 
-* The build now defines the editor as its default export. This makes requiring the build easier when using AMD, CJS or ES6 modules. See [ckeditor/ckeditor5#545](https://github.com/ckeditor/ckeditor5/issues/545). ([e5c7511](https://github.com/ckeditor/ckeditor5-build-classic/commit/e5c7511))
+* The build now defines the editor as its default export. This makes requiring the build easier when using AMD, CJS or ES6 modules. See [ckeditor/ckeditor5#545](https://github.com/ckeditor/ckeditor5/issues/545). ([e5c7511](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/e5c7511))
 
 ### BREAKING CHANGES
 
 * The build now defines a default export instead of named export. See [ckeditor/ckeditor5#545](https://github.com/ckeditor/ckeditor5/issues/545).
 
 
-## [0.3.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v0.2.0...v0.3.0) (2017-09-03)
+## [0.3.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v0.2.0...v0.3.0) (2017-09-03)
 
 ### Features
 
-* Support for building the editor in another language than `en`. Closes [#11](https://github.com/ckeditor/ckeditor5-build-classic/issues/11). ([f4233a5](https://github.com/ckeditor/ckeditor5-build-classic/commit/f4233a5))
+* Support for building the editor in another language than `en`. Closes [#11](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/11). ([f4233a5](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/f4233a5))
 
 ### Other changes
 
-* Removed the compat-type of build. Closes [#20](https://github.com/ckeditor/ckeditor5-build-classic/issues/20). ([529a319](https://github.com/ckeditor/ckeditor5-build-classic/commit/529a319))
+* Removed the compat-type of build. Closes [#20](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/20). ([529a319](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/529a319))
 
 
-## [0.2.0](https://github.com/ckeditor/ckeditor5-build-classic/compare/v0.1.1...v0.2.0) (2017-05-07)
+## [0.2.0](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v0.1.1...v0.2.0) (2017-05-07)
 
 ### Bug fixes
 
-* CSS should be minified. Closes [#7](https://github.com/ckeditor/ckeditor5-build-classic/issues/7). ([ae2da32](https://github.com/ckeditor/ckeditor5-build-classic/commit/ae2da32))
+* CSS should be minified. Closes [#7](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/7). ([ae2da32](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/ae2da32))
 
 ### Features
 
-* Added the block quotes feature. Closes [#5](https://github.com/ckeditor/ckeditor5-build-classic/issues/5). ([ab5db32](https://github.com/ckeditor/ckeditor5-build-classic/commit/ab5db32))
+* Added the block quotes feature. Closes [#5](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/5). ([ab5db32](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/ab5db32))
 
 ### Other changes
 
-* Changed the order of buttons in the image toolbar. See https://github.com/ckeditor/ckeditor5-image/issues/60. ([131cbe7](https://github.com/ckeditor/ckeditor5-build-classic/commit/131cbe7))
-* Use the essentials preset instead of low level features like typing and enter. Closes [#9](https://github.com/ckeditor/ckeditor5-build-classic/issues/9). ([80314bf](https://github.com/ckeditor/ckeditor5-build-classic/commit/80314bf))
+* Changed the order of buttons in the image toolbar. See https://github.com/ckeditor/ckeditor5-image/issues/60. ([131cbe7](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/131cbe7))
+* Use the essentials preset instead of low level features like typing and enter. Closes [#9](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/9). ([80314bf](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/80314bf))
 
 
-## [0.1.1](https://github.com/ckeditor/ckeditor5-build-classic/compare/v0.1.0...v0.1.1) (2017-04-06)
+## [0.1.1](https://github.com/ckeditor/ckeditor5-build-ezicheq/compare/v0.1.0...v0.1.1) (2017-04-06)
 
 ### Other
 
-* Updated the bundles (the previous release contained an outdated bundles). ([0ac7b07](https://github.com/ckeditor/ckeditor5-build-classic/commit/0ac7b07))
+* Updated the bundles (the previous release contained an outdated bundles). ([0ac7b07](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/0ac7b07))
 
 
 ## 0.1.0 (2017-04-05)
 
 ### Features
 
-* Initial implementation. Closes [#1](https://github.com/ckeditor/ckeditor5-build-classic/issues/1). ([f88bc52](https://github.com/ckeditor/ckeditor5-build-classic/commit/f88bc52))
+* Initial implementation. Closes [#1](https://github.com/ckeditor/ckeditor5-build-ezicheq/issues/1). ([f88bc52](https://github.com/ckeditor/ckeditor5-build-ezicheq/commit/f88bc52))
