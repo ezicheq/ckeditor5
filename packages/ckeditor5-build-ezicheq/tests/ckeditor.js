@@ -5,11 +5,11 @@
 
 /* globals document */
 
-import ClassicEditor from '../src/ckeditor';
-import BaseClassicEditor from '@ckeditor/ckeditor5-editor-classic/src/classiceditor';
+import EzicheqEditor from '../src/ckeditor';
+import BaseEzicheqEditor from '@ckeditor/ckeditor5-editor-ezicheq/src/ezicheqeditor';
 import { describeMemoryUsage, testMemoryUsage } from '@ckeditor/ckeditor5-core/tests/_utils/memory';
 
-describe( 'ClassicEditor build', () => {
+describe( 'EzicheqEditor build', () => {
 	let editor, editorElement;
 
 	beforeEach( () => {
@@ -26,17 +26,17 @@ describe( 'ClassicEditor build', () => {
 
 	describe( 'build', () => {
 		it( 'contains plugins', () => {
-			expect( ClassicEditor.builtinPlugins ).to.not.be.empty;
+			expect( EzicheqEditor.builtinPlugins ).to.not.be.empty;
 		} );
 
 		it( 'contains config', () => {
-			expect( ClassicEditor.defaultConfig.toolbar ).to.not.be.empty;
+			expect( EzicheqEditor.defaultConfig.toolbar ).to.not.be.empty;
 		} );
 	} );
 
 	describe( 'create()', () => {
 		beforeEach( () => {
-			return ClassicEditor.create( editorElement )
+			return EzicheqEditor.create( editorElement )
 				.then( newEditor => {
 					editor = newEditor;
 				} );
@@ -46,9 +46,9 @@ describe( 'ClassicEditor build', () => {
 			return editor.destroy();
 		} );
 
-		it( 'creates an instance which inherits from the ClassicEditor', () => {
-			expect( editor ).to.be.instanceof( ClassicEditor );
-			expect( editor ).to.be.instanceof( BaseClassicEditor );
+		it( 'creates an instance which inherits from the EzicheqEditor', () => {
+			expect( editor ).to.be.instanceof( EzicheqEditor );
+			expect( editor ).to.be.instanceof( BaseEzicheqEditor );
 		} );
 
 		it( 'loads data from the editor element', () => {
@@ -58,7 +58,7 @@ describe( 'ClassicEditor build', () => {
 
 	describe( 'destroy()', () => {
 		beforeEach( () => {
-			return ClassicEditor.create( editorElement )
+			return EzicheqEditor.create( editorElement )
 				.then( newEditor => {
 					editor = newEditor;
 				} );
@@ -85,7 +85,7 @@ describe( 'ClassicEditor build', () => {
 
 	describe( 'plugins', () => {
 		beforeEach( () => {
-			return ClassicEditor.create( editorElement )
+			return EzicheqEditor.create( editorElement )
 				.then( newEditor => {
 					editor = newEditor;
 				} );
@@ -174,7 +174,7 @@ describe( 'ClassicEditor build', () => {
 
 		// https://github.com/ckeditor/ckeditor5/issues/572
 		it( 'allows configuring toolbar items through config.toolbar', () => {
-			return ClassicEditor
+			return EzicheqEditor
 				.create( editorElement, {
 					toolbar: [ 'bold' ]
 				} )
@@ -187,7 +187,7 @@ describe( 'ClassicEditor build', () => {
 
 		// https://github.com/ckeditor/ckeditor5/issues/572
 		it( 'allows configuring toolbar offset without overriding toolbar items', () => {
-			return ClassicEditor
+			return EzicheqEditor
 				.create( editorElement, {
 					toolbar: {
 						viewportTopOffset: 42
@@ -202,7 +202,7 @@ describe( 'ClassicEditor build', () => {
 		} );
 
 		it( 'allows removing built-in toolbar items', () => {
-			return ClassicEditor
+			return EzicheqEditor
 				.create( editorElement, {
 					toolbar: {
 						removeItems: [ 'italic' ]
@@ -220,6 +220,6 @@ describe( 'ClassicEditor build', () => {
 	describeMemoryUsage( () => {
 		testMemoryUsage(
 			'should not grow on multiple create/destroy',
-			() => ClassicEditor.create( document.querySelector( '#mem-editor' ) ) );
+			() => EzicheqEditor.create( document.querySelector( '#mem-editor' ) ) );
 	} );
 } );
